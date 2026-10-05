@@ -5,4 +5,7 @@ public class calculator {
    {
 	   System.out.println(10+20);
    }
+	public void subtraction()
+	{
+		
 }
