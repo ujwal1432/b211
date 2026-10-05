@@ -17,6 +17,6 @@ public class calculator {
 
 	public void div()
 	{
-		System.out.println(10%2)
+		System.out.println(10%2);
 			}		
 }
